@@ -40,8 +40,8 @@ Here are some of my notable projects:
 📫 You can reach me via email at [Your Email](mailto:mohammedmalan60@gmail.com) or connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/mohammedmalan)
-- [Twitter](https://twitter.com/yourhandle)
 - [Portfolio Website](https://mohammedmalan.netlify.app)
+- ![image]({[BadgeURLHere](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)})
 
 Feel free to explore my GitHub repositories and reach out if you have any questions or collaboration opportunities. Let's build amazing Flutter experiences together!
 
