@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesiyynndicate" alt="thesiyynndicate" /></a> </p>
 
-- 🔭 I’m currently working on [SchoolTry](https://play.google.com/store/apps/details?id=com.softuvosol.schooltry&hl=en&gl=US)
+- 🔭 I’m currently working on [Tripsome](https://next.tripsome.com/en)
 
 - 🌱 I’m currently learning **Machine learning**
 
